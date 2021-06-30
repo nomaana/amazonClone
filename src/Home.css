@@ -1,0 +1,27 @@
+.home {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  /* background-color: lightgray; */
+}
+.home__row {
+  /* z-index: 100;
+  margin: 20px;
+  display: grid;
+  overflow: hidden;
+  grid-gap: 5px 55px;
+  grid-template-columns: repeat(auto-fill, minmax(26rem, 1fr)); */
+
+  display: flex;
+  z-index: 1;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin: 10px;
+}
+
+.home_image {
+  width: 100%;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+  z-index: -1;
+  margin-bottom: -150px;
+}

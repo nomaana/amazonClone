@@ -68,3 +68,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+npm cache clean --force
+npm i react-currency-format
+
+{
+id: 333,
+title: "The lense startup :How to control the innnovation",
+price: 11.38,
+rating: 5,
+image: "https://i.ytimg.com/vi/ETsekJKsr3M/maxresdefault.jpg",
+},
+{
+id: 111,
+title: "The lense startup :How to control the innnovation",
+price: 14.38,
+rating: 5,
+image: "https://i.ytimg.com/vi/ETsekJKsr3M/maxresdefault.jpg",
+},
+{
+id: 55555,
+title: "The lense startup :How to control the innnovation",
+price: 15.38,
+rating: 5,
+image: "https://i.ytimg.com/vi/ETsekJKsr3M/maxresdefault.jpg",
+},
+
+display: flex;
+z-index: 1;
+margin-left: 5px;
+margin-right: 5px;
+margin: 10px;
